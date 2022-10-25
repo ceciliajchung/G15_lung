@@ -9,7 +9,7 @@ set.seed(1234)
 # 'pheno.data'
 # : data frame of phenotypes
 # : column 1 is sex
-# Sample names or IDs must be matching for rownames in all phenotypic and genotypic data.
+# Sample names or IDs must be matching the rownames in all phenotypic and genotypic data.
 
 
 ## Perform Mapping ####
